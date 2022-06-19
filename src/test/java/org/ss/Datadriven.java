@@ -28,6 +28,8 @@ public class Datadriven {
 		Cell cell = row.getCell(0);
 		System.out.println(cell);
 		
+		System.out.println("sujith");
+		System.out.println("kumar");
 		
 		
 		
