@@ -1,0 +1,25 @@
+{
+"name":"sujith",
+"email": "sujith@gmail.com",
+"phone" :8300191276,
+"studentdetails":[
+{
+"name":"bala",
+"course":"java",
+"adress":"chennai"},
+
+{
+"name":"guna",
+"course":"sql",
+"adress":"nagercoil"},
+
+{
+"name":"mani",
+"course":"selenium",
+"adress":"madurai"},
+
+{
+"name":"dinesh",
+"course":"API",
+"adress":"trichy"}]
+}
